@@ -1,0 +1,15 @@
+C:\Projetos\CSharp\232_QueueUsingStacks\bin\Debug\net6.0\232_QueueUsingStacks.exe
+C:\Projetos\CSharp\232_QueueUsingStacks\bin\Debug\net6.0\232_QueueUsingStacks.deps.json
+C:\Projetos\CSharp\232_QueueUsingStacks\bin\Debug\net6.0\232_QueueUsingStacks.runtimeconfig.json
+C:\Projetos\CSharp\232_QueueUsingStacks\bin\Debug\net6.0\232_QueueUsingStacks.dll
+C:\Projetos\CSharp\232_QueueUsingStacks\bin\Debug\net6.0\232_QueueUsingStacks.pdb
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.csproj.AssemblyReference.cache
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.AssemblyInfo.cs
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.dll
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\refint\232_QueueUsingStacks.dll
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.pdb
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\232_QueueUsingStacks.genruntimeconfig.cache
+C:\Projetos\CSharp\232_QueueUsingStacks\obj\Debug\net6.0\ref\232_QueueUsingStacks.dll

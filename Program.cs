@@ -1,0 +1,21 @@
+﻿
+MyQueue obj = new MyQueue();
+obj.Push(1);
+obj.Push(2);
+obj.Push(3);
+obj.Push(4);
+int param_2 = obj.Pop();
+Console.WriteLine(param_2);
+obj.Push(5);
+param_2 = obj.Pop();
+Console.WriteLine(param_2);
+param_2 = obj.Pop();
+Console.WriteLine(param_2);
+param_2 = obj.Pop();
+Console.WriteLine(param_2);
+int param_3 = obj.Peek();
+Console.WriteLine(param_3);
+param_2 = obj.Pop();
+Console.WriteLine(param_2);
+bool param_4 = obj.Empty();
+Console.WriteLine(param_4);
